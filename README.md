@@ -10,7 +10,7 @@
 该版本未经过测试脚本验证，存在未知bug，不建议直接用在项目中，经过验证的版本，大家可以联系我获取。
 
 ### 移植教程
-参见公众号文章：
+参见公众号文章：https://mp.weixin.qq.com/s/HKbuSTahpzkIt7F0zEeVUw?payreadticket=HPsOZ83mPuRaXo_qOwK_pGRQ6iP_csF5kCcODb3L09i40JBQkXfeE0LbSeyKkWMh_BurBJ0
 
 ### 联系我
 微信：sydygys。

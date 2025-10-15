@@ -2,7 +2,7 @@
 ## 代码实在传不上来，最后放在这里了：[https://gitee.com/sydyg/autosar-nm.git](https://gitee.com/sydyg/autosar-nm/tree/master)。
 
 #### 介绍
-实现了Autosar的网络管理状态机。
+实现了Autosar的网络管理状态机。**拒绝复杂，不要任何配置工具，不依赖任何其他Autosar模块。**
 该项目在VS2022上已经做过测试，逻辑转移没啥问题，大伙可以下载学习，研究这个状态机是怎么转移的。
 
 ### 版本说明

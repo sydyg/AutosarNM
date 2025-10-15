@@ -1,5 +1,5 @@
 # AutosarNM
-## 代码实在传不上来，最后放在这里了：https://gitee.com/sydyg/autosar-nm.git。
+## 代码实在传不上来，最后放在这里了：[https://gitee.com/sydyg/autosar-nm.git](https://gitee.com/sydyg/autosar-nm/tree/master)。
 
 #### 介绍
 实现了Autosar的网络管理状态机。
